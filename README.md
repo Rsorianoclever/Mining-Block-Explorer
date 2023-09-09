@@ -1,6 +1,7 @@
 # Mining-Block-Explorer
 Un conjunto de herramientas en Python para la visualización de modelos de bloques en 3D, la generación de histogramas de elementos clave y la creación de curvas tonelaje-ley. Ideal para profesionales de la minería y la geología que deseen analizar datos geoespaciales de manera eficiente
 
+![Orebody](https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/f62708bb-8c3a-4626-856c-5fca0c471a1b){ width=300 height=200 }
 
 ![ZNEQ_ley](https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/5953ab29-9470-4f75-b3a9-40ad2a43069c)
 ![ZNEQ](https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/920f5a8f-a786-47ce-a00e-9c9d5af0d226)
@@ -8,7 +9,7 @@ Un conjunto de herramientas en Python para la visualización de modelos de bloqu
 ![ZN](https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/078889ba-2620-49a0-8a93-e1171e23cfdb)
 ![PB_ley](https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/f4e35ea4-e964-4523-8a98-97c26afad1a6)
 ![PB](https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/cacd5397-7c2d-485e-9001-3a7bdb532dd6)
-![Orebody](https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/f62708bb-8c3a-4626-856c-5fca0c471a1b)
+
 ![FE_ley](https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/a61e801f-155f-4f75-bcf9-d6ae013e8d4a)
 ![FE](https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/ede25d38-c249-4d0b-b3fb-34bdd7f93268)
 ![CU_ley](https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/abacaffc-12b0-45b4-a509-7cbe65fe1564)
