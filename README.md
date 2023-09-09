@@ -37,9 +37,11 @@ Este programa fue desarrollado por [Richard Soriano](https://github.com/Rsoriano
 
 ## Capturas
 Modelo de bloques por categoria.
+<br>
 <img src="https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/f62708bb-8c3a-4626-856c-5fca0c471a1b" width="700" height="600">
 <br>
 Histogramas de Leyes de elementos de interes.
+<br>
 <img src="https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/920f5a8f-a786-47ce-a00e-9c9d5af0d226" width="400" height="350">
 <img src="https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/ede25d38-c249-4d0b-b3fb-34bdd7f93268" width="400" height="350">
 <img src="https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/078889ba-2620-49a0-8a93-e1171e23cfdb" width="400" height="350">
@@ -49,6 +51,7 @@ Histogramas de Leyes de elementos de interes.
 <img src="https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/78a4879b-002e-47fa-a220-e74e8d0cc0a7" width="400" height="350">
 <br>
 Curvas Ton vs Ley vs Cut-off.
+<br>
 <img src="https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/e0aa0f82-7684-4a9a-ab85-2937a2856f1b" width="300" height="250">
 <img src="https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/5953ab29-9470-4f75-b3a9-40ad2a43069c" width="300" height="250">
 <img src="https://github.com/Rsorianoclever/Mining-Block-Explorer/assets/80426763/f4e35ea4-e964-4523-8a98-97c26afad1a6" width="300" height="250">
