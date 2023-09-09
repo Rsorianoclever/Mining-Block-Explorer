@@ -3,7 +3,7 @@ Un conjunto de herramientas en Python para la visualización de modelos de bloqu
 
 Este programa en Python es una herramienta  para la visualización de modelos de bloques en 3D, así como para la generación de histogramas de elementos de interés en el modelo y la creación de curvas tonelaje-ley. Es especialmente útil en el ámbito de la minería y la geología para el análisis de datos geoespaciales.
 
-## Características Clave
+## Características
 
 - **Visualización en 3D**: Explora modelos de bloques en tres dimensiones para comprender la distribución espacial de los elementos de interés.
 
